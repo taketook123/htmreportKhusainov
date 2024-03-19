@@ -65,6 +65,7 @@ a:hover {
 
 .labs-content {
   display: flex;
+  height: 800px;
 }
 
 .lab {
@@ -102,7 +103,7 @@ a:hover {
   flex-grow: 1;
   font-family: "Open Sans", sans-serif;
   font-weight: 400;
-  height: 500px;
+  height: 1000px;
   padding: 10px 15px 0 15px;
 }
 
