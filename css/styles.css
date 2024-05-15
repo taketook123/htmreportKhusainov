@@ -177,5 +177,17 @@ td:first-child {
   }
 }
 
+#lab6-place {
+    width: 200px;
+    height: 100px;
+    background-color: green;
+    margin: 20px auto;
+}
+
+.lab6-result {
+    margin-top: 10px;
+    font-weight: bold;
+}
+
 
 
